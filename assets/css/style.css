@@ -1,0 +1,91 @@
+body{
+    background-color: #fff;
+}
+td{
+    width: 37%;
+}
+.bg-color{
+    background-color: #eee;
+}
+.login{
+    background-color: #e8eaf6;
+}
+.blue{
+    color: blue;
+}
+.review_head{
+    background-color: #c9e6c9;
+    text-align: right;
+    margin-top: -2%;
+}
+.rating{
+    background-color: #c9e6c9;
+    margin-top: -10px;
+    text-align: right;
+}
+.text{
+    background-color: #f5f5f5;
+    padding-top: 0.5em;
+    margin-top: -10px;
+}
+.header {
+    background: #337ab7;
+    color: #fff;
+    padding: 1%;
+    box-shadow: 10px 10px 5px #bdbdbd;
+}
+.header > a{
+    color: #fafafa;
+}
+.right{
+    text-align: right;
+}
+.margin-top-10{
+    margin-top: 1.0em;
+}
+.padding-left-10{
+    padding-left: 1.0em;
+}
+.title{
+    vertical-align: top;
+    width: 375px;
+}
+.bold{
+    font-weight: bold;
+}
+.product-view{
+    padding-left: 15px;
+    vertical-align: top;
+}
+.product-img{
+    width:20px;
+    height:20px;
+}
+.valign-top{
+    vertical-align: top;
+}
+.align-right{
+    text-align: right;
+}
+.title-padding-right{
+    padding-right: 3%;
+}
+.padding-top{
+    padding-top: 1.5em;
+}
+.fixed-width{
+    width: 50%;
+}
+.underline{
+    text-decoration: underline;
+    font-style: italic;
+}
+.account td{
+    width: 50%;
+}
+.checkout td{
+    width: 50%;
+}
+.alert{
+    color: red;
+}
